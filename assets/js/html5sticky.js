@@ -459,12 +459,12 @@ html5sticky.enlargeNote = function(el){
          paddingTop:'5px',
          top:posTop,
          left:posLeft,
-         width:'600px',
+         width:'350px',
          height:'400px',
          top:'50%',
          left:'50%',
          display:'none',
-         marginLeft:'-300px',
+         marginLeft:'-185px',
          marginTop:'-200px'
       });
 
